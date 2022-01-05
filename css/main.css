@@ -78,3 +78,30 @@ a {
     color: #8f8f8f;
     font-weight: 500;
 }
+
+#ads {
+    background-image: linear-gradient(to right top, #ff34a7, #ed1ab0, #d700b9, #bb00c4, #9900ce, #c800b8, #e800a2, #fe008d, #ff4656, #ff8c00, #f8ca00, #b2ff00);
+    text-align: center;
+    color: #fff;
+}
+
+.carousel-inner {
+    padding: 5% 15%;
+}
+
+.agent {
+    padding-bottom: 5%;
+}
+
+.ads_img {
+    border-radius: 50%;
+    width: 10%;
+    margin: 1rem;
+}
+
+#ads h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
