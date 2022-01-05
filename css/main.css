@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;800;900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Ubuntu:wght@100;200;300;400;500;600;700&display=swap);
+
+#mynavbar {
+    background-image: linear-gradient(to right top, #ff34a7, #ed1ab0, #d700b9, #bb00c4, #9900ce, #c800b8, #e800a2, #fe008d, #ff4656, #ff8c00, #f8ca00, #b2ff00);
+    background-size: cover;
+    color: #ffffff;
+    background-attachment: fixed;    
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.navbar-brand {
+    font-family: Ubuntu, sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    color: #fff;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.text_img {
+    padding-top: 4rem;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+button {
+    margin: 1rem;
+}
+
+.iphone {
+    transform: rotate(20deg);
+    width: 20%;
+    position: absolute;
+}
