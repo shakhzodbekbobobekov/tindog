@@ -42,3 +42,39 @@ button {
     width: 20%;
     position: absolute;
 }
+
+#comfort {
+    text-align: center;
+    padding: 7% 10%;
+    position: relative;
+    background-color: #fff;
+
+}
+
+.comfort_box {
+    padding: 1rem;
+}
+
+.comfort_box i {
+    color: rgb(238, 75, 102);
+}
+
+.comfort_box i:hover {
+    color: rgb(138, 4, 29);
+}
+
+a {
+    text-decoration: none;
+}
+
+.comfort_box h3 {
+    padding-top: 1rem;
+    font-family: Montserrat, sans-serif;
+    color: rgb(39, 29, 29);
+    font-weight: 700;
+}
+
+.comfort_box p {
+    color: #8f8f8f;
+    font-weight: 500;
+}
