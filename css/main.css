@@ -105,3 +105,58 @@ a {
     font-size: 3rem;
     line-height: 1.5;
 }
+
+#mytext {
+    padding: 5% 10%;
+}
+
+.middle {
+    text-align: center;
+}
+
+.row {
+    padding-top: 2rem;
+}
+
+h4 {
+    font-weight: 900;
+}
+
+h5 {
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+h6 {
+    font-size: 2rem;
+    font-weight: 900;
+    margin-bottom: 5rem;
+}
+
+#text {
+    background-image: linear-gradient(to right top, #ff34a7, #ed1ab0, #d700b9, #bb00c4, #9900ce, #c800b8, #e800a2, #fe008d, #ff4656, #ff8c00, #f8ca00, #b2ff00);
+    text-align: center;
+    padding: 5%;
+}
+
+#footer {
+    text-align: center;
+    padding: 5%;
+}
+
+.myicon {
+    padding: 2%;
+    color: black;
+    margin-bottom: 3rem;
+}
+
+.myicon a {
+    text-decoration: none;
+    color: #343a40;
+    padding: 0.8rem;
+    font-size: 1.5rem;
+}
+
+.myicon a:hover {
+    color: rgb(129, 129, 236);
+}
