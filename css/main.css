@@ -160,3 +160,8 @@ h6 {
 .myicon a:hover {
     color: rgb(129, 129, 236);
 }
+
+
+#footer span {
+    font-size: 0.8rem;
+}
